@@ -1,6 +1,6 @@
 # JoyDeckHub
 JoyDeckHub is the companion desktop application for configuring and controlling the **JoyDeck** device.  
-Built in Processing 4, it provides a modern, user-friendly interface for command assignment, color control, profile management, and advanced interaction modes.
+Built in Java, it provides a modern, user-friendly interface for command assignment, color control, profile management, and advanced interaction modes.
 
 ---
 
