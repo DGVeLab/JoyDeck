@@ -6,14 +6,14 @@ JoyDeck transforms a physical 8-way analog stick into a powerful desktop control
 Main Features:
 🎯 8 Programmable Directions
 Each direction can be assigned to:
-🖥 Open an application (.exe, .bat, URI)
-🌐 Open a website (http / https)
-⌨ Simulate keyboard shortcuts
-🖱 Control the mouse
-🎵 Spotify controller mode
-🎬 Media controller mode
-🌍 HTTP request (GET / POST)
-⚙ System control (shutdown, lock, etc.)
+- 🖥 Open an application (.exe, .bat, URI)
+- 🌐 Open a website (http / https)
+- ⌨ Simulate keyboard shortcuts
+- 🖱 Control the mouse
+- 🎵 Spotify controller mode
+- 🎬 Media controller mode
+- 🌍 HTTP request (GET / POST)
+- ⚙ System control (shutdown, lock, etc.)
 
 ---
 RGB LED Feedback
@@ -38,18 +38,18 @@ ESPprogrammer allows you to:
   
 ---
 2️⃣ Connect JoyDeck
-Connect the device via USB
-Launch JoyDeck Hub
-Select the correct serial port
-Click Connect
+- Connect the device via USB
+- Launch JoyDeck Hub
+- Select the correct serial port
+- Click Connect
   
 ---
 3️⃣ Configure Your Directions
-Choose an action for each direction
-Set LED colors
-Test commands
-Click Save
-You're ready to go 🚀
+- Choose an action for each direction
+- Set LED colors
+- Test commands
+- Click Save
+- You're ready to go 🚀
   
 ---
 🎯 Typical Use Cases
@@ -63,9 +63,9 @@ Productivity launcher
   
 ---
 🖥 System Requirements
-Windows 10 / 11
-USB port
-ESP32-based JoyDeck hardware
+- Windows 10 / 11
+- USB port
+- ESP32-based JoyDeck hardware
   
 ---
 👨‍💻 Author
