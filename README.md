@@ -53,13 +53,13 @@ ESPprogrammer allows you to:
   
 ---
 🎯 Typical Use Cases
-Stream Deck alternative
-Editing workflow controller
-Spotify desk controller
-Smart home HTTP trigger device
-Gaming macro controller
-CAD shortcut panel
-Productivity launcher
+- Stream Deck alternative
+- Editing workflow controller
+- Spotify desk controller
+- Smart home HTTP trigger device
+- Gaming macro controller
+- CAD shortcut panel
+- Productivity launcher
   
 ---
 🖥 System Requirements
@@ -68,7 +68,7 @@ Productivity launcher
 - ESP32-based JoyDeck hardware
   
 ---
-👨‍💻 Author
+👨‍💻 Author:
 Ernesto Sorrentino
 DGVeLab
 
