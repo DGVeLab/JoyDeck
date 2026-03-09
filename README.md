@@ -1,3 +1,5 @@
+![JoyDeck](images/joydek.png)
+
 JoyDeck Hub is the official desktop application for configuring and controlling the JoyDeck hardware device (ESP32-based intelligent joystick controller).
 JoyDeck transforms a physical 8-way analog stick into a powerful desktop control system for automation, shortcuts, multimedia control, and productivity.
 
